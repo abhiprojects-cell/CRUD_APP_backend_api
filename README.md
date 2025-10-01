@@ -27,28 +27,3 @@ MongoDB – NoSQL database
 
 Mongoose – MongoDB object modeling
 
-//  folder structure //
-crud-app-backend/
-│
-├─ config/
-│  └─ db.js         
-│
-├─ controllers/
-│  └─ itemController.js
-│
-├─ models/
-│  └─ itemModel.js
-│
-├─ routes/
-│  └─ itemRoutes.js
-│
-├─ .env
-├─ server.js
-├─ package.json
-└─ README.md
-
-
-
-
-
-
